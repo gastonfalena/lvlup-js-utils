@@ -1,1 +1,3 @@
-export const fn = () => {}
+const fn = (): void => {}
+
+fn()
